@@ -1,10 +1,9 @@
 language: node_js
-os: windows-latest
+
 install:
   - yarn
  node_js:
   - 16.13.0
-
 services:
   - docker
 
